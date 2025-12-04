@@ -12,9 +12,10 @@ This document visually demonstrates the impact of the WooCommerce Unified Review
 - Structured data (schema.org) reported incorrect counts to Google.
 
 **Screenshots:**
-- ![Before – Reviews Tab shows (0)](images/before-tab.png)
-- ![Before – Product summary mismatch](images/before-summary.png)
-
+- ![Before – Reviews Tab mismatch](images/before-tab.png)
+![Before – Reviews Tab mismatch 2](images/before-tab0.png)
+![Before – Reviews Tab mismatch 3](images/before-tab1.png)
+![Before – Reviews Tab mismatch 4](images/before-tab2.png)
 ---
 
 ## 📈 After
